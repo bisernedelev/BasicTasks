@@ -16,7 +16,5 @@ public class SortNumbers {
         for (int y = arrInt.length - 1; y >= 1; y--)
             System.out.print(arrInt[y] + ", ");
         System.out.print(arrInt[0]);
-
-
     }
 }
