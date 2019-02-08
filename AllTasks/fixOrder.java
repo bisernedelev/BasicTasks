@@ -24,7 +24,6 @@ public class fixOrder {
             }
         }
 
-
         for (int a = 0; a < array0.length; a++) {
             arrayInt[a] = Integer.parseInt(array[a]);
         }
