@@ -19,7 +19,6 @@ public class RemoveDuplicates {
 
         String[] unique = new String[array1.length];
 
-
         for (int i = 0; i < array1.length; i++) {
             array[i] = array1[i];
 
