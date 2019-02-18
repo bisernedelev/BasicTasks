@@ -7,7 +7,7 @@ public class CalculateDiscount {
         DecimalFormat df = new DecimalFormat("#.00");
         Scanner sc = new Scanner(System.in);
         double x = sc.nextDouble();
-        double number;
+        double number ;
         double total = 0;
 
         for (int i = 0; i < x; i++) {
