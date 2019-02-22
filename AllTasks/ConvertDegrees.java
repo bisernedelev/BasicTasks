@@ -12,6 +12,7 @@ public class ConvertDegrees {
             int i = sc.nextInt();
             int a= (int) ((i*1.8)+32);
             System.out.println(a);
+            
         }
 
 
