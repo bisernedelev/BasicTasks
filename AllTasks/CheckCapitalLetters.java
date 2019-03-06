@@ -10,7 +10,6 @@ public class CheckCapitalLetters {
         char[] b = word.toCharArray();
 
         boolean result=false;
-
         for (int i=0;i<word.length();i++){
             if (a[i]!=b[i]){
                 result=true;
