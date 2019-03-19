@@ -45,8 +45,7 @@ public class HorsePath {
                 }
             }
         }
-
-        // Print the output
+ // Print the output
         for (int[] row : matrix) {
             String result = "";
             for (int cell : row) {
