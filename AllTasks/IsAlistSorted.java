@@ -9,8 +9,6 @@ public class IsAlistSorted {
         String[] result = new String[n];
 
         int flag = 0;
-
-
         for (int z = 0; z <n; z++) {
 
             String input = sc.nextLine();
