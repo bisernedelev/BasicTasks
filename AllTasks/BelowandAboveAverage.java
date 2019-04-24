@@ -17,10 +17,7 @@ public class BelowandAboveAverage {
         String aboveStr="";
         String aboveStr1="";
 
-
-
-
-        int avg = 0;
+         int avg = 0;
         for (int i = 0; i <array.length; i++) {
             arrInt[i]=Integer.parseInt(array[i]);
             avg+=arrInt[i];
