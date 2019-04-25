@@ -19,11 +19,7 @@ public class CalculateComplexSum {
             a = a * (i + 1);
 
             total += sum;
-
-
-
-        }
-
+}
         System.out.println(df.format(total));
 
     }
