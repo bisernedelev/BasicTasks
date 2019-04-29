@@ -21,6 +21,5 @@ public class CalculateComplexSum {
             total += sum;
 }
         System.out.println(df.format(total));
-
-    }
+ }
 }
