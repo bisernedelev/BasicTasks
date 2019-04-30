@@ -12,6 +12,7 @@ public class CalculateComplexSum {
         double a = 1;
         double total = 1;
 
+      
         for (int i = 1; i <= n; i++) {
             int b = 0;
             double integral = (a * (a - (a - 1)));
