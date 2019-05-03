@@ -15,7 +15,5 @@ public class CalculateDiscount {
             total = number - (number * 0.65);
             System.out.println(df.format(total));
         }
-
-
     }
 }
