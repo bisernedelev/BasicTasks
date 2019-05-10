@@ -54,8 +54,7 @@ public class ArraySort {
                 idx3++;
             }
         }
-
-        for (int g = 0; g < arrayAbove.length; g++) {
+         for (int g = 0; g < arrayAbove.length; g++) {
             System.out.print(arrayAbove[g] + ",");
         }
         for (int h = 0; h < only0.length - 1; h++) {
