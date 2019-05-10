@@ -62,5 +62,4 @@ public class ArraySort {
         }
         System.out.print(only0[only0.length - 1]);
     }
-
 }
