@@ -14,7 +14,7 @@ public class ArraySort {
         int idx2 = 0;
         int idx3 = 0;
 
-      for (int a1 = 0; a1 < array0.length; a1++) {
+       for (int a1 = 0; a1 < array0.length; a1++) {
             array0[a1] = 999;
         }
 
