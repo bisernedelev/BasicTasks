@@ -18,7 +18,6 @@ public class CheckCapitalLetters {
         return result;
 
     }
-
     public static void main(String[] args) {
         String text1 = "Welcome to this bullet proof exam!+"
                 + "Can you invent and write a solution to this task!+"
