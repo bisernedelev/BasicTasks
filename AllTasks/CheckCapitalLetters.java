@@ -29,7 +29,6 @@ public class CheckCapitalLetters {
 
 
         int counter = 0;
-
         for (int i = 0; i < test1.length; i++) {
             if (checkCapitalLetter(test1[i])){
 
