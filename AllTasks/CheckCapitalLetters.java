@@ -49,5 +49,4 @@ public class CheckCapitalLetters {
         System.out.println(words1);
 
     }
-
 }
