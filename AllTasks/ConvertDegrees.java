@@ -14,9 +14,5 @@ public class ConvertDegrees {
             System.out.println(a);
             
         }
-
-
-
-
     }
 }
