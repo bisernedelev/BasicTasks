@@ -37,10 +37,7 @@ public class CheckCapitalLetters {
 
 
             }
-
-
-
-         }
+   }
         System.out.println(test1.length);
         System.out.println(Arrays.toString(test1));
         System.out.println(counter);
