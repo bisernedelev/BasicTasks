@@ -11,7 +11,6 @@ public class theGame {
 
     public static void main(String[] args) {
 
-
         int[] array = new int [3];
         int[] array2 = new int [4];
 
