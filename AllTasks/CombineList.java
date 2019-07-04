@@ -21,7 +21,6 @@ public class CombineList {
         for (int y = 0; y <= array1and2.length-1; y+=2) {
             if (y % 2 == 0) {
                 array1and2[y] = arrInt[y/2];
-
             }
             if(y==0){
                 array1and2[y + 1] = arrInt2[y];
