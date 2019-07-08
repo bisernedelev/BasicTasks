@@ -21,8 +21,6 @@ public class MatrixEx {
             System.out.println();
 
         }
-
-
     }
 
 }
