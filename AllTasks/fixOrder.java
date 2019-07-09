@@ -61,9 +61,6 @@ public class fixOrder {
         }
 
 
-
-
-
         for (int f = 0; f < array0.length; f++) {
 
             if (array0[f] != null) {
