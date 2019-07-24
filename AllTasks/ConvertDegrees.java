@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class ConvertDegrees {
     public static void main(String[] args) {
 
+        
         DecimalFormat df = new DecimalFormat("#.00");
         Scanner sc = new Scanner(System.in);
             while(sc.hasNext()){
