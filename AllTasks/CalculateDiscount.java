@@ -10,6 +10,7 @@ public class CalculateDiscount {
         double number ;
         double total = 0;
 
+        
         for (int i = 0; i < x; i++) {
             number = sc.nextDouble();
             total = number - (number * 0.65);
