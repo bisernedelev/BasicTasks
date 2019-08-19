@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class CombineList {
     public static void main(String[] args) {
 
+        
         Scanner sc = new Scanner(System.in);
         String input = sc.nextLine();
         String input2 = sc.nextLine();
