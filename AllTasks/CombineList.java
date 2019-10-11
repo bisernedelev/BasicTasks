@@ -30,6 +30,7 @@ public class CombineList {
                 array1and2[y + 1] = arrInt2[y/2];
             }
         }
+        
         for (int z = 0; z <= array1and2.length-2; z++) {
             System.out.print(array1and2[z] + ",");
         }
